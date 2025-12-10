@@ -4,7 +4,7 @@
 
 Actuellement en 3ème année de Bachelor à **Ynov Campus** (Sophia Antipolis), je suis passionné par la sécurité des systèmes et l'administration réseau. Je prépare activement la certification **CJCA** (Certified Junior Cybersecurity Analyst).
 
-🔭 **Je recherche une alternance en Cybersécurité pour 2024-2025.**
+🔭 **Je recherche une alternance en Cybersécurité pour 2026-2029.**
 
 ---
 
